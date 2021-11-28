@@ -1,0 +1,17 @@
+Application version:
+0.117-gda6174e
+Packages CPU architecture:
+aarch64
+Subscribed repositories:
+# sources.list
+deb https://termux.astra.in.ua/apt/termux-main stable main
+Updatable packages:
+All packages up to date
+Android version:
+12
+Kernel build information:
+Linux localhost 4.19.191-gc2161d44afae-ab7624114 #1 SMP PREEMPT Mon Aug 9 09:02:05 UTC 2021 aarch64 Android
+Device manufacturer:
+Google
+Device model:
+Pixel 5
